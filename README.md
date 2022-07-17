@@ -1,11 +1,11 @@
 this repository contains about react hook
 
 
-## Available Script
+## Setup
+1. Fork this repository
 
-
-1. before you run react server you need to install package first by run:
+2. Before you run react server you need to install package first by run:
 ### `npm install`
 
-2. after that you can run react server by run:
+3. After that you can run react server by run:
 ### `npm start`
